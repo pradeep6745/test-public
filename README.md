@@ -1,3 +1,5 @@
-# test-public
-publice
-to access to all user 
+#!/bin/bash
+ls -lrt
+pwd
+whoami
+
